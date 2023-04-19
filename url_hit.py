@@ -2,7 +2,7 @@ import asyncio
 from aiohttp import ClientSession
 
 # Defina a URL que você deseja acessar
-url = 'http://hello-hello-prdejxtp1khy-767387691.us-east-1.elb.amazonaws.com/'
+url = 'url'
 
 # Cria uma função que envia uma solicitação HTTP
 async def send_request(session):
